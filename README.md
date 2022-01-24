@@ -1,3 +1,10 @@
+#My Solution
+I decided to take a User Experience perspective to my approach and came up with a solution that gives multiple options. The first is to simply see a list of Poisonous Mushrooms or Edible Mushrooms. The second option, allows for the User to enter the specific characteristics of their Mushroom and then receive information on whether their mushroom is poisonous or edible. For both approaches, I split the csv into a String array and then created a Mushroom Object based on the array. Then I read the first category of each mushroom to separate them into Poisonous and Edible. To achieve the functionality of asking the user for input on their mushroom, I compared the list of all poisonous mushrooms to the user Mushroom.  
+
+I left lots of comments in my code to make it easy to understand and follow. Thank you for considering me for ACM Research 2022 !
+
+
+
 # ACM Research Coding Challenge (Spring 2022)
 
 ## [](https://github.com/ACM-Research/-DRAFT-Coding-Challenge-S22#no-collaboration-policy)No Collaboration Policy

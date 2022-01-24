@@ -63,7 +63,7 @@ public class Main {
                 displayMushrooms(edibleMushrooms);
             else if (selection == 3) {
                 Mushroom idealMushroom = askDetails();
-                findIfMushroomPoisonous(mushrooms, idealMushroom);
+                findIfMushroomPoisonous(poisonousMushrooms, idealMushroom);
             }
             else if (selection == 4)
                 break;
